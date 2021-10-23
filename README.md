@@ -1,11 +1,10 @@
 # NumeroPrimo-PrimeNumber
 Recebe um numero e diz se o mesmo é primo.
 
-package controle;
 
-import javax.swing.JOptionPane;
+	import javax.swing.JOptionPane;
 
-public class Exercicio5PrimoSwitch {
+	public class Exercicio5PrimoSwitch {
 
 	public static void main(String[] args) {
 
@@ -28,15 +27,17 @@ public class Exercicio5PrimoSwitch {
 		} else {
 			System.out.println("Numero não primo!");
 		}
+	    }
+	}
 
+!!!ENGLISH!!!
 #PrimeNumber
 Gets a number and checks if it's a prime number.
 
-package controle;
 
-import javax.swing.JOptionPane;
+	import javax.swing.JOptionPane;
 
-public class Exercise5PrimeSwitch {
+	public class Exercise5PrimeSwitch {
 
 	public static void main(String[] args) {
 
@@ -59,3 +60,5 @@ public class Exercise5PrimeSwitch {
 		} else {
 			System.out.println("Not a prime number!");
 		}
+	    }
+	}
