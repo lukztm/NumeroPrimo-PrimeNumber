@@ -1,4 +1,4 @@
-# NumeroPrimo-PrimeNumber
+# NumeroPrimo
 Recebe um numero e diz se o mesmo é primo.
 
 
